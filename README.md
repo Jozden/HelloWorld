@@ -1,3 +1,4 @@
 # HelloWorld
 My First Repository
-My name is Jacob, for real this time
+My name is Jacob
+I am tall, dark, and very handsome
